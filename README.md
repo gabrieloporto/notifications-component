@@ -1,6 +1,6 @@
 # Frontend Mentor - Notifications page solution
 
-This is a solution to the [Notifications page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC).
+This is a solution to the [Notifications page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC){:target="\_blank"}.
 
 ## Table of contents
 
@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Preview
 
-![preview-image](src/assets/images/Screenshot%202023-08-20%20at%2017-21-06%20Frontend%20Mentor%20Notifications%20page.png)
+![preview-image](src/assets/Screenshot%202023-08-20%20at%2017-21-06%20Frontend%20Mentor%20Notifications%20page.png)
 
 ### Links
 
-- Solution: [Repository](https://github.com/gabrieloporto/notifications-component)
-- Live Site: [Webpage](https://gabrieloporto.github.io/notifications-component/)
+- Solution: [Repository](https://github.com/gabrieloporto/notifications-component){:target="\_blank"}
+- Live Site: [Webpage](https://gabrieloporto.github.io/notifications-component/){:target="\_blank"}
 
 ## My process
 
@@ -48,9 +48,9 @@ Users should be able to:
 
 ### Useful resources
 
-- [React Documentation](https://reactjs.org/)
+- [React Documentation](https://reactjs.org/){:target="\_blank"}
 
 ## Author
 
-- Frontend Mentor - [@gabrieloporto](https://www.frontendmentor.io/profile/gabrieloporto)
-- GitHub - [@gabrieloporto](https://github.com/gabrieloporto)
+- Frontend Mentor - [@gabrieloporto](https://www.frontendmentor.io/profile/gabrieloporto){:target="\_blank"}
+- GitHub - [@gabrieloporto](https://github.com/gabrieloporto){:target="\_blank"}
