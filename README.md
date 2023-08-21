@@ -1,6 +1,6 @@
 # Frontend Mentor - Notifications page solution
 
-This is a solution to the [Notifications page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC){:target="\_blank"}.
+This is a solution to the [Notifications page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC).
 
 ## Table of contents
 
@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution: [Repository](https://github.com/gabrieloporto/notifications-component){:target="\_blank"}
-- Live Site: [Webpage](https://gabrieloporto.github.io/notifications-component/){:target="\_blank"}
+- Solution: [Repository](https://github.com/gabrieloporto/notifications-component)
+- Live Site: [Webpage](https://gabrieloporto.github.io/notifications-component/)
 
 ## My process
 
@@ -48,9 +48,9 @@ Users should be able to:
 
 ### Useful resources
 
-- [React Documentation](https://reactjs.org/){:target="\_blank"}
+- [React Documentation](https://reactjs.org/)
 
 ## Author
 
-- Frontend Mentor - [@gabrieloporto](https://www.frontendmentor.io/profile/gabrieloporto){:target="\_blank"}
-- GitHub - [@gabrieloporto](https://github.com/gabrieloporto){:target="\_blank"}
+- Frontend Mentor - [@gabrieloporto](https://www.frontendmentor.io/profile/gabrieloporto)
+- GitHub - [@gabrieloporto](https://github.com/gabrieloporto)
