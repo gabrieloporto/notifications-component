@@ -1,0 +1,26 @@
+:root {
+  --primary-red-color: hsl(1, 90%, 64%);
+  --primary-blue-color: hsl(219, 85%, 26%);
+  ---white-color: hsl(0, 0%, 100%);
+  --grayish-blue: hsl(219, 14%, 63%);
+  --light-grayish-blue: hsl(211, 68%, 94%);
+  --light-grayish-blue-two: hsl(205, 33%, 90%);
+  --very-light-grayish-blue: hsl(210, 60%, 98%);
+  --dark-grayish-blue: hsl(219, 12%, 42%);
+  --very-dark-blue: hsl(224, 21%, 14%);
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 16px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+}

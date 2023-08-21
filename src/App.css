@@ -1,0 +1,162 @@
+#root {
+  margin: 0 5%;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.header div,
+.header h1 {
+  display: inline;
+}
+
+.header h1 {
+  font-size: 1.3rem;
+  vertical-align: sub;
+  margin: 0;
+  color: var(--very-dark-blue);
+}
+
+.count {
+  margin-left: 0.5rem;
+  color: var(---white-color);
+  background: var(--primary-blue-color);
+  border-radius: 0.2rem;
+  vertical-align: middle;
+}
+
+.count strong {
+  color: var(---white-color);
+  margin: 0.5rem;
+}
+
+.mark-all-read {
+  text-decoration: none;
+  color: var(--dark-grayish-blue);
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.mark-all-read:hover {
+  color: var(--primary-blue-color);
+}
+
+.avatar {
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-right: 1rem;
+}
+
+p {
+  display: inline;
+  font-size: 0.85rem;
+}
+
+.date {
+  display: block;
+  margin-bottom: 1rem;
+  color: var(--grayish-blue);
+}
+
+.other-posts {
+  font-size: 0.8rem;
+  padding: 0.5rem;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 0.2rem;
+  background-color: var(--light-grayish-blue-two);
+  color: var(--dark-grayish-blue);
+  cursor: pointer;
+}
+
+.other-posts.hidden {
+  display: none;
+}
+
+.your-picture {
+  margin-top: 0.4rem;
+  margin-left: 0.8rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  cursor: pointer;
+}
+
+.your-picture.hidden {
+  display: none;
+}
+
+.username {
+  color: var(--very-dark-blue);
+  cursor: pointer;
+}
+
+strong:hover {
+  color: var(--primary-blue-color);
+}
+
+.action {
+  color: var(--dark-grayish-blue);
+}
+
+.notification-content {
+  display: flex;
+  margin: 0 1rem;
+  margin-bottom: 1rem;
+}
+
+.new-notification {
+  vertical-align: middle;
+  width: 0.5rem;
+  height: 0.5rem;
+  margin-top: 0.5rem;
+  border-radius: 100%;
+  background-color: var(--primary-red-color);
+}
+
+.new-notification.hidden {
+  display: none;
+}
+
+.card-container {
+  display: flex;
+}
+
+.notification-content .post-type {
+  color: var(--dark-grayish-blue);
+}
+
+.notification-content.is-active .post-type {
+  color: var(--dark-grayish-blue);
+}
+
+.text-content .post-type:hover {
+  color: var(--primary-blue-color);
+  cursor: pointer;
+}
+
+@media screen and (min-width: 648px) {
+  #root {
+    margin: 1rem 10%;
+  }
+
+  .your-picture {
+    margin-left: 32%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  #root {
+    margin: 2rem 20%;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  #root {
+    margin: 2rem 28%;
+  }
+}
